@@ -47,6 +47,7 @@ function App() {
                 {taskId: v1(), title: "HTML&CSS", isDone: true},
                 {taskId: v1(), title: "JS", isDone: true}
             ],
+
             students: [
                 'Rick Kane',
                 'Finnlay Bentley',
